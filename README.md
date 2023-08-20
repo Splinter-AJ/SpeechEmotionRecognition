@@ -14,25 +14,7 @@ The samples include:
 
 - 2800 files from **TESS**. A set of 200 target words were spoken in the carrier phrase "Say the word _____' by two actresses (aged 26 and 64 years) and recordings were made of the set portraying each of seven emotions (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral). There are 2800 stimuli in total. Two actresses were recruited from the Toronto area. Both actresses speak English as their first language, are university educated, and have musical training. Audiometric testing indicated that both actresses have thresholds within the normal range.
 
-**Metrics**
 
-*Model summary*
-
-![Link to model](media/model.png) 
-
-*Loss and accuracy plots*
-
-![Link to loss](media/test7_2.JPG) 
-
-![Link to accuracy](media/test7_3.JPG)
-
-*Classification report*
-
-![Link do classification report](media/test7_1.JPG)
-
-*Confusion matrix*
-
-![Link do classification report](media/test7_4.JPG)
 
 **How to use the code inside this repository**
 
